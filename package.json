@@ -8,7 +8,6 @@
     "console": "strapi console",
     "deploy": "strapi deploy",
     "dev": "strapi develop",
-    "build":"npm install --legacy-peer-deps && strapi build",
     "develop": "strapi develop",
     "start": "strapi start",
     "strapi": "strapi",
